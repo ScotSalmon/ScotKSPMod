@@ -1,0 +1,1 @@
+Intial experiment with KSP modding from 2016. Based on https://wiki.kerbalspaceprogram.com/wiki/Tutorial:Creating_your_first_module. Adds a module that I used in RSS to reproduce the (attempted) spin stabilization used in https://en.wikipedia.org/wiki/Explorer_1.
